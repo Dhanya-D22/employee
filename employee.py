@@ -93,7 +93,3 @@ def process_emp_data():
 process_emp_data()
 
 
-import pandas as pd
-
-df = pd.read_csv("emp.csv")
-print(df)  # Prints table in the console
